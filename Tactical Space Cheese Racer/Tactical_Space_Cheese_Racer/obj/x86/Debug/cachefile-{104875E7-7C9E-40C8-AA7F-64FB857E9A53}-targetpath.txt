@@ -1,0 +1,7 @@
+Content\Background.xnb
+Content\BackgroundLeftButton.xnb
+Content\BackgroundRightButton.xnb
+Content\pointer.xnb
+Content\Background.png
+Content\BackgroundLeftButton.png
+Content\BackgroundRightButton.png

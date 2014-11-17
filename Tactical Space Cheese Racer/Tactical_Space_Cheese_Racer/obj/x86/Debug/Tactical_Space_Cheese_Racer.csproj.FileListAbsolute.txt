@@ -1,0 +1,13 @@
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Tactical_Space_Cheese_Racer.exe
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Tactical_Space_Cheese_Racer.pdb
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\obj\x86\Debug\Tactical_Space_Cheese_Racer.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\obj\x86\Debug\Tactical_Space_Cheese_Racer.exe
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\obj\x86\Debug\Tactical_Space_Cheese_Racer.pdb
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\Background.xnb
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\BackgroundLeftButton.xnb
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\BackgroundRightButton.xnb
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\Background.png
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\BackgroundLeftButton.png
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\BackgroundRightButton.png
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\pointer.xnb

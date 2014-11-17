@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Background.png</Source>
+      <Name>Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\Background.xnb</Output>
+      <Time>2014-11-17T11:12:46.6196206+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundLeftButton.png</Source>
+      <Name>BackgroundLeftButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\BackgroundLeftButton.xnb</Output>
+      <Time>2014-11-17T11:30:59.3156693+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundRightButton.png</Source>
+      <Name>BackgroundRightButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\BackgroundRightButton.xnb</Output>
+      <Time>2014-11-17T11:31:51.5335654+00:00</Time>
+    </Item>
+    <Item>
+      <Source>pointer.png</Source>
+      <Name>pointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\pointer.xnb</Output>
+      <Time>2014-11-17T11:48:24.6310973+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{104875E7-7C9E-40C8-AA7F-64FB857E9A53}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_RacerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-11-07T13:10:49.9064818+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

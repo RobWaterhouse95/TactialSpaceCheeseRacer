@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tactical_Space_Cheese_Racer", "Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\Tactical_Space_Cheese_Racer.csproj", "{CEC37B42-D435-4FEA-9573-897FC9C70F4B}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Tactical_Space_Cheese_RacerContent", "Tactical Space Cheese Racer\Tactical_Space_Cheese_RacerContent\Tactical_Space_Cheese_RacerContent.contentproj", "{104875E7-7C9E-40C8-AA7F-64FB857E9A53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEC37B42-D435-4FEA-9573-897FC9C70F4B}.Debug|x86.ActiveCfg = Debug|x86
+		{CEC37B42-D435-4FEA-9573-897FC9C70F4B}.Debug|x86.Build.0 = Debug|x86
+		{CEC37B42-D435-4FEA-9573-897FC9C70F4B}.Release|x86.ActiveCfg = Release|x86
+		{CEC37B42-D435-4FEA-9573-897FC9C70F4B}.Release|x86.Build.0 = Release|x86
+		{104875E7-7C9E-40C8-AA7F-64FB857E9A53}.Debug|x86.ActiveCfg = Debug|x86
+		{104875E7-7C9E-40C8-AA7F-64FB857E9A53}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
