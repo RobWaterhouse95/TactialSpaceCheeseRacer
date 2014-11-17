@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\Background.xnb</Output>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2013\Projects\TactialSpaceCheeseRacer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\Background.xnb</Output>
       <Time>2014-11-17T11:12:46.6196206+00:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\BackgroundLeftButton.xnb</Output>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2013\Projects\TactialSpaceCheeseRacer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\BackgroundLeftButton.xnb</Output>
       <Time>2014-11-17T11:30:59.3156693+00:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\BackgroundRightButton.xnb</Output>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2013\Projects\TactialSpaceCheeseRacer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\BackgroundRightButton.xnb</Output>
       <Time>2014-11-17T11:31:51.5335654+00:00</Time>
     </Item>
     <Item>
@@ -34,8 +34,17 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\pointer.xnb</Output>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2013\Projects\TactialSpaceCheeseRacer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\pointer.xnb</Output>
       <Time>2014-11-17T11:48:24.6310973+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BoardFile.png</Source>
+      <Name>BoardFile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rob\Documents\Visual Studio 2013\Projects\TactialSpaceCheeseRacer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\BoardFile.xnb</Output>
+      <Time>2014-11-17T15:15:06.1581439+00:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -44,10 +53,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_RacerContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Rob\Documents\Visual Studio 2013\Projects\Tactical Space Cheese Racer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Rob\Documents\Visual Studio 2013\Projects\TactialSpaceCheeseRacer\Tactical Space Cheese Racer\Tactical_Space_Cheese_RacerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Rob\Documents\Visual Studio 2013\Projects\TactialSpaceCheeseRacer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Rob\Documents\Visual Studio 2013\Projects\TactialSpaceCheeseRacer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Rob\Documents\Visual Studio 2013\Projects\TactialSpaceCheeseRacer\Tactical Space Cheese Racer\Tactical_Space_Cheese_Racer\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

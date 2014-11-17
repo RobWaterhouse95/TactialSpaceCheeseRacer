@@ -38,22 +38,38 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BackgroundLeftButton.png">
-      <Name>BackgroundLeftButton</Name>
+    <Compile Include="pointer.png">
+      <Name>pointer</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Compile>
-    <Compile Include="BackgroundRightButton.png">
-      <Name>BackgroundRightButton</Name>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BoardFile.png">
+      <Name>BoardFile</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="pointer.png">
-      <Name>pointer</Name>
+    <Compile Include="CloseButton.png">
+      <Name>CloseButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="CloseButton_Clicked.png">
+      <Name>CloseButton_Clicked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="PlayButton.png">
+      <Name>PlayButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="PlayButton_Clicked.png">
+      <Name>PlayButton_Clicked</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>

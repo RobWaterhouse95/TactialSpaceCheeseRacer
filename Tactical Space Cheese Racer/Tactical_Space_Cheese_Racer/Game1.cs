@@ -16,7 +16,7 @@ namespace Tactical_Space_Cheese_Racer
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
-        public Texture2D textureBackground, texturePointer;
+        public Texture2D textureBackground,backgroundMain, MainButtonPlay, MainButtonPlay_Clicked, MainButtonClose, MainButtonClose_Clicked, backgroundBoard, texturePointer;
         Rectangle MouseLocation;
         public Rectangle buttonPlay, buttonClose;
 
@@ -45,8 +45,15 @@ namespace Tactical_Space_Cheese_Racer
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
-            textureBackground = Content.Load<Texture2D>("Background");
+            backgroundMain = Content.Load<Texture2D>("Background");
             texturePointer = Content.Load<Texture2D>("Pointer");
+            backgroundBoard = Content.Load<Texture2D>("BoardFile");
+            MainButtonPlay = Content.Load<Texture2D>("PlayButton");
+            MainButtonPlay_Clicked = Content.Load<Texture2D>("PlayButton_Clicked");
+            MainButtonClose = Content.Load<Texture2D>("CloseButton");
+            MainButtonClose_Clicked = Content.Load<Texture2D>("CloseButton_Clicked");
+
+            
 
 
         }
@@ -67,18 +74,20 @@ namespace Tactical_Space_Cheese_Racer
 
             if (MouseLocation.Intersects(buttonPlay))
             {
-                textureBackground = Content.Load<Texture2D>("BackgroundLeftButton");
+                if (Mouse.GetState().LeftButton == ButtonState.Pressed)
+                {
+                    textureBackground = backgroundBoard;
+                }
             }
             else if (MouseLocation.Intersects(buttonClose))
             {
-                textureBackground = Content.Load<Texture2D>("BackgroundRightButton");
                 if(Mouse.GetState().LeftButton == ButtonState.Pressed){
                     Exit();
                 }
             }
             else
             {
-                textureBackground = Content.Load<Texture2D>("Background");
+
             }
             base.Update(gameTime);
         }
@@ -88,6 +97,11 @@ namespace Tactical_Space_Cheese_Racer
             GraphicsDevice.Clear(Color.Black);
 
             spriteBatch.Begin();
+            if (textureBackground == backgroundMain)
+            {
+                spriteBatch.Draw(MainButtonPlay, buttonPlay, Color.White);
+                spriteBatch.Draw(MainButtonClose, buttonClose, Color.White);
+            }
             spriteBatch.Draw(textureBackground, new Vector2(0, 0), Color.White);
             spriteBatch.Draw(texturePointer, new Vector2(MouseLocation.X,MouseLocation.Y), Color.White);
             spriteBatch.End();
